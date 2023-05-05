@@ -1,0 +1,29 @@
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe.config
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.pdb
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.AssemblyReference.cache
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.CoreCompileInputs.cache
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.exe
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.pdb
+E:\2nd semester Material\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe.config
+E:\2nd semester Material\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe
+E:\2nd semester Material\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.pdb
+E:\2nd semester Material\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.AssemblyReference.cache
+E:\2nd semester Material\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.CoreCompileInputs.cache
+E:\2nd semester Material\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.exe
+E:\2nd semester Material\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.pdb
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.csproj.AssemblyReference.cache
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.exe
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.pdb
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.exe.config
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.exe
+C:\Users\Administrator.NOMAN.000\Documents\New\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.pdb
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.exe.config
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.exe
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\bin\Debug\Space  Fighter.pdb
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.csproj.AssemblyReference.cache
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.csproj.CoreCompileInputs.cache
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.exe
+C:\Users\zulaikha imtiaz\Downloads\Space  Fighter(Fixed)\Space  Fighter\Space  Fighter\obj\Debug\Space  Fighter.pdb
